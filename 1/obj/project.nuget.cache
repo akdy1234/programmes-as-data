@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wBRZr6L115Q=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aksel\\OneDrive\\Skrivebord\\5\\programmes-as-data\\1\\programmes-as-data.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aksel\\.nuget\\packages\\fsharp.core\\10.0.102\\fsharp.core.10.0.102.nupkg.sha512"
+  ],
+  "logs": []
+}

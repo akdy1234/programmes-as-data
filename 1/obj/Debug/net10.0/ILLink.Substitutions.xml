@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<linker>
+  <assembly fullname="programmes-as-data">
+    <resource name="FSharpSignatureData.programmes-as-data" action="remove"></resource>
+    <resource name="FSharpSignatureCompressedData.programmes-as-data" action="remove"></resource>
+    <resource name="FSharpSignatureDataB.programmes-as-data" action="remove"></resource>
+    <resource name="FSharpSignatureCompressedDataB.programmes-as-data" action="remove"></resource>
+    <resource name="FSharpOptimizationData.programmes-as-data" action="remove"></resource>
+    <resource name="FSharpOptimizationCompressedData.programmes-as-data" action="remove"></resource>
+    <resource name="FSharpOptimizationDataB.programmes-as-data" action="remove"></resource>
+    <resource name="FSharpOptimizationCompressedDataB.programmes-as-data" action="remove"></resource>
+    <resource name="FSharpOptimizationInfo.programmes-as-data" action="remove"></resource>
+    <resource name="FSharpSignatureInfo.programmes-as-data" action="remove"></resource>
+  </assembly>
+</linker>
